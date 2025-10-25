@@ -4,7 +4,7 @@
 
  
 
- [![Github](https://i.postimg.cc/7PVF2r3S/IMG-20250602-112717.jpg)](https://github.com/baijidalam)
+[![Github](https://img.shields.io/badge/Github-525252?style=for-the-badge&logo=github)](https://github.com/baijidalam)
 
 </h3>
 
