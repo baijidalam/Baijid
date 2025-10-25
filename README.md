@@ -1,4 +1,4 @@
-# [![facebook](https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook)](https://www.facebook.com/DaRk.HuNtEr.aLaMin.01)
+[![facebook](https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook)](https://www.facebook.com/DaRk.HuNtEr.aLaMin.01)
 
 [![facebook_page](https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook)](https://www.facebook.com/DH.Alamin.Hasan01)
 
